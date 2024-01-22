@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 vrunda rasania
 
 this is sample file
 
 this is text file
+=======
+some interesting stuff here
+>>>>>>> realwork
